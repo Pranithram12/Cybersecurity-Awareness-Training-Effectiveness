@@ -2,6 +2,11 @@
 
 A website developed using HTML and CSS to promote and evaluate the effectiveness of cybersecurity awareness training programs.
 
+URL of the Website
+ ```bash
+    https://pranithram12.github.io/Cybersecurity-Awareness-Training-Effectiveness/
+ ```
+
 ## Features
 
 - **Informative Content**: Provides detailed information about cybersecurity threats and best practices.
@@ -18,7 +23,7 @@ A website developed using HTML and CSS to promote and evaluate the effectiveness
 
 1. Clone the repository:
     ```bash
-    
+    https://github.com/Pranithram12/Cybersecurity-Awareness-Training-Effectiveness.git
     ```
 
 2. Navigate to the project directory:
